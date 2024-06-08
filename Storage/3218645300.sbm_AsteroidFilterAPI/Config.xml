@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<AsteroidFilterAPIConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ActiveFilters>
+    <AsteroidFilterInfo Name="RemoveWhenFastGridsNearby" Priority="1000" />
+    <AsteroidFilterInfo Name="RemoveToMakeClusters" Priority="100" />
+  </ActiveFilters>
+  <InactiveFilters />
+</AsteroidFilterAPIConfig>

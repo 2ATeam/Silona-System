@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>2.0.7.269</Version>
+  <Logging>false</Logging>
+  <CommandPrefix>/SSG</CommandPrefix>
+  <InitialSystemRadius>2000</InitialSystemRadius>
+  <InitialPlanetaryDistance>1000</InitialPlanetaryDistance>
+  <InitialInclination>45</InitialInclination>
+  <GpsPoints>
+
+</GpsPoints>
+</Configuration>

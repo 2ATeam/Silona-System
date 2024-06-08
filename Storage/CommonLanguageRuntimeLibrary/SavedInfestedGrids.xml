@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfMyTupleOfInt64StringString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MyTupleOfInt64StringString>
+    <Item1>119078978716943684</Item1>
+    <Item2>FCSS-V-D</Item2>
+    <Item3>OBSR</Item3>
+  </MyTupleOfInt64StringString>
+  <MyTupleOfInt64StringString>
+    <Item1>75424594164839111</Item1>
+    <Item2>FCSS-V-A</Item2>
+    <Item3>ALPB</Item3>
+  </MyTupleOfInt64StringString>
+</ArrayOfMyTupleOfInt64StringString>
